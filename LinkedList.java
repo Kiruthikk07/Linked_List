@@ -101,8 +101,7 @@ class LinkedList{
     }
 }
 
-public class Main
-{
+public class Linked_List_Implementation{
 	public static void main(String[] args) {
 	    LinkedList list = new LinkedList();
 	    list.add(1);
